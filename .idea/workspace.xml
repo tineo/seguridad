@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005746f8-c246-461f-be55-4c7108dd00da" name="Default Changelist" comment="" />
+    <list default="true" id="005746f8-c246-461f-be55-4c7108dd00da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
   </component>
   <component name="RunManager">
     <configuration name="gf" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.0" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/ProyectoPatrones/" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ProyectoPatrones/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="seguridad:war exploded">
@@ -159,8 +162,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575965703623</updated>
-      <workItem from="1575965709522" duration="2300000" />
+      <workItem from="1575965709522" duration="2611000" />
     </task>
+    <task id="LOCAL-00001" summary="config glassfish">
+      <created>1575968530256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575968530256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,5 +187,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="config glassfish" />
+    <option name="LAST_COMMIT_MESSAGE" value="config glassfish" />
   </component>
 </project>
