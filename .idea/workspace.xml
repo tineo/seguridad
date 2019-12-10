@@ -7,8 +7,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="005746f8-c246-461f-be55-4c7108dd00da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/cargarPlantilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/cargarPlantilla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_crear_material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_crear_material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_crear_tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_crear_tarea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_crear_usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_crear_usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_evaluar_tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_evaluar_tarea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_incidencias_salud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_incidencias_salud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_incidencias_tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_incidencias_tarea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_materiales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_materiales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_tareas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_tareas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_usuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/administrador/controlador_lista_usuarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/sesion/controlador_forget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/sesion/controlador_forget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/controlador/sesion/controlador_login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/controlador/sesion/controlador_login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/dao/AdministratorDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/dao/AdministratorDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/dao/Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/dao/Dao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/dao/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/dao/EmployeeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/dao/IncidentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/dao/IncidentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/dao/TaskDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/dao/TaskDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/factory/UserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/factory/UserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/models/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/models/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/models/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/models/HealthReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/models/HealthReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/models/Incident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/models/Incident.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/models/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/models/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/models/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/models/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/proxy/AdministratorProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/proxy/AdministratorProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/proxy/EmployeeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/proxy/EmployeeProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fisi/singleton/DBAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fisi/singleton/DBAccess.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575965703623</updated>
-      <workItem from="1575965709522" duration="2611000" />
+      <workItem from="1575965709522" duration="4236000" />
     </task>
     <task id="LOCAL-00001" summary="config glassfish">
       <created>1575968530256</created>
@@ -171,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575968530256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="config glassfish">
+      <created>1575968835943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575968835943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
